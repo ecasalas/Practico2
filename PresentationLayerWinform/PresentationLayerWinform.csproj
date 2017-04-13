@@ -131,12 +131,6 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
-      <Project>{135E79F3-5B60-4253-8CA1-53DFE3A6024B}</Project>
-      <Name>DataAccessLayer</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <WCFMetadataStorage Include="Service References\ServiceEmployeesReferencia\" />
   </ItemGroup>
   <ItemGroup>
